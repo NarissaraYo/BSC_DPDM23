@@ -36,10 +36,9 @@ Hw5 Neural network (Perceptron)
 
 ### Homework1 Frequent Items
 
-Click to code
-[CodeHomework1](https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules.ipynb)
+Click to Code(https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules.ipynb)
 
-Click to slide presentation [SlideHomework1](https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Copy_of_Frequent_Patterns_(Association_Rules).ipynb)
+Click to slide presentation[SlideHomework1](https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Copy_of_Frequent_Patterns_(Association_Rules).ipynb)
 
 **สมาชิก กลุ่ม ทองประเสริฐ**  :scream_cat:
 
@@ -50,13 +49,13 @@ Click to slide presentation [SlideHomework1](https://github.com/NarissaraYo/BSC_
 
 ### Homework2   
 
-Click to  [Homework 2] วาดมือDecision tree (https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Homework%202_643020504-0.pdf) 
+Click to  [Homework 2](https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Homework%202_643020504-0.pdf) 
 
 
 ### Homework3 Decision Tree parameter
 Group_Decision Tree(min_sample_leaf,max_feature) 
 
-Click to slide presentation[SlideHomework3]https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Blue%20Yellow%20Minimalist%20Modern%20Pitch%20Deck%20Business%20Presentation.pdf)
+Click to slide presentation[SlideHomework3](https://github.com/NarissaraYo/BSC_DPDM23/blob/main/Blue%20Yellow%20Minimalist%20Modern%20Pitch%20Deck%20Business%20Presentation.pdf)
 
 **Group ทองประเสริฐ + I hate monday** :busts_in_silhouette:
 
